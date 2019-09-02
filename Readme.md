@@ -28,3 +28,12 @@ Note that there are two major dialects of Python.  Python 3.* is
 incompatible with 2*.  As a result, Python 2.7 remains popular.  All
 of our examples were ported to 3.* during the summer of 2018.  We (mildly)
 encourage students to use that dialect of Python.
+
+Contributions:  Mannyboy Flores helped me understand some set-up required for this lab.
+                Jaime Salas helped me understand some aspects of the python language in the coding.
+Webpages visited:
+                
+https://docs.python.org/3/library/re.html
+https://stackoverflow.com/questions/5629023/the-order-of-keys-in-dictionaries
+https://docs.python.org/3.1/library/collections.html
+http://www.learningaboutelectronics.com/Articles/How-to-find-the-number-of-times-a-word-or-phrase-occurs-in-a-text-in-Python-using-regular-expressions.php
